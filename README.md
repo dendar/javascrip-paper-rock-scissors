@@ -1,2 +1,3 @@
-# javascrip-paper-rock-scissors
-paper,rock scissors game
+# javascript-paper-rock-scissors
+paper,rock scissors game!!!
+Check it out!!!
